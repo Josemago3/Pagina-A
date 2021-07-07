@@ -74,6 +74,7 @@ PANTALLA DE ESCRITORIO GRANDE - LARGE (lg) - revisamos en portatil o pc
 	body{
 		background-color: #ffdd90;
 		background-image: url("../Imagenes/pink-hair-lollipop-zero-two-darling-in-the-franxx-darling-in-the-franxx-wallpaper-preview.jpg");
+		background-size: 100%;
 	} 
 
 }
